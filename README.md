@@ -128,3 +128,7 @@ This script is provided as-is for use in managing Tableau licenses within your o
 ## Related Resources
 
 * [Activate Tableau Desktop and Tableau Prep Builder](https://help.tableau.com/current/desktopdeploy/en-us/desktop_deploy_automate.htm#:~:text=Activate%20Tableau%20Desktop%20and%20Tableau%20Prep%20Builder)
+
+## Acknowledgements
+
+*This project was built with some assistance from Claude by Anthropic.* (Mostly error checking/ logic testing)
